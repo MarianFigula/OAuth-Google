@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="147.175.98.87" id="ecba911e-7e95-4e2b-9942-157373b6184b" port="22" customName="webte2" nameFormat="CUSTOM" username="xfigula">
+        <option name="customName" value="webte2" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

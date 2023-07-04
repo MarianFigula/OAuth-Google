@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/glogin/src" isTestSource="false" packagePrefix="Google\" />
+      <sourceFolder url="file://$MODULE_DIR$/glogin/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/firebase/php-jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/paragonie/constant_time_encoding" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/phpseclib/phpseclib" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/google/apiclient-services" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/google/auth" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/glogin/vendor/symfony/deprecation-contracts" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="dataTables.bootstrap5" level="application" />
+    <orderEntry type="library" name="jquery.dataTables" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="toastr.js" level="application" />
+    <orderEntry type="library" name="jquery-1.9.1" level="application" />
+  </component>
+</module>

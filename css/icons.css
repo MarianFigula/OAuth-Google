@@ -1,0 +1,15 @@
+
+.del-btn{
+    background-image: url("../svg_icons/x-lg-white.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 12px;
+}
+
+.edit-btn{
+    background-image: url("../svg_icons/pencil-square-white.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 12px;
+}
+
